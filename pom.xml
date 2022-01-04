@@ -5,6 +5,7 @@
   <groupId>de.probstl</groupId>
   <artifactId>planetfork</artifactId>
   <version>1.0.0-SNAPSHOT</version>
+  <description>Test project for forking projects on GitHub</description>
 
   <properties>
     <maven.compiler.target>11</maven.compiler.target>
