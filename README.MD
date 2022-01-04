@@ -38,6 +38,6 @@
 </code></pre>
 
 8. Create an PR within Github to transfer changes to the foreign GitHub-Repository
-9. Waiting for apporval and merge in the foreign repositroy
+9. Waiting for approval and merge in the foreign repository
 10. Fetch and merge changes back to your repoistory
 
