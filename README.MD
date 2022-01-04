@@ -4,7 +4,7 @@
 
 2. Search for foreign GitHub-Repository and fork it within GitHub
 
-3.  git clone foreign GitHub-Repository
+3.  git clone own GitHub-Repository which was created with the fork action in GitHub
 <pre><code>
     $ git clone https://github.com/USERNAME/REPONAME.git
     $ cd REPONAME
