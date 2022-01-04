@@ -18,7 +18,7 @@
     $ git remote -v
 </code></pre>
 
-6. To pull data from the foreign repo add tracking info [git command -u]( https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--ultupstreamgt) The command -u is the same as --track
+6. To pull data from the foreign repo add tracking info [git branch -u]( https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--ultupstreamgt) The command -u is the same as --track
 <pre><code> 
     # Create remote connections for pull
     $ git branch -u upstream/master
