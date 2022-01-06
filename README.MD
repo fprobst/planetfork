@@ -1,4 +1,4 @@
-# Workflow working with fork and remote repo 
+## Workflow working with fork and remote repo 
 
 1. Create own GitHub-Repository
 
@@ -42,6 +42,6 @@
 10. Fetch and merge changes back to your repoistory
 
 
-# Action WIP
+## Action WIP
 The GitHub Action is created under folder .github/workflow with name main.yml and uses the existing [wip action] (https://github.com/wip/action).
 The action sets a pull request status to pending if the title includes "WIP".
